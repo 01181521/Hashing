@@ -401,4 +401,72 @@ Large-Scale Cross-Media Retrieval(`DRMFH`)[[Paper]](https://ieeexplore.ieee.org/
 ### 😄Single-Modal 
 * #### Deep-Supervised   
 ### 😄Cross-Modal 
-* #### Deep-Supervised  
+* #### Deep-Supervised
+
+
+## 😍Privacy  
+
+### 😄Single-Modal  
+
+* #### PFE(plain-feature-encrypted)
+
+***2018 FGCS***  Content-Based Multi-Source Encrypted Image Retrieval in Clouds with Privacy Preservation(`MIPP`) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X17321969)  
+
+***2017 Information Sciences*** EPCBIR_ An efficient and privacy-preserving content-based__image retrieval scheme in cloud computing(`EPCBIR`) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025516321971)  
+
+***2019 J REAL-TIME IMAGE PR*** A privacy‑preserving image retrieval method based on deep learning and adaptive weighted fusion [[Paper]](https://link.springer.com/article/10.1007/s11554-019-00909-3)  
+
+***2019 MULTIMED TOOLS APPLs*** A privacy-preserving image retrieval scheme based secure kNN, DNA coding and deep hashing[[Paper]](https://link.springer.com/article/10.1007/s11042-019-07753-4)  
+
+***2020 T EMERG TELECOMMUN T***  Secure content-based image retrieval using modified__Euclidean distance for encrypted features [[Paper]](https://onlinelibrary.wiley.com/doi/full/10.1002/ett.4013)  
+
+***2020 GLOBECOM*** Efficient and Privacy-preserving Outsourced Image__Retrieval in Public Clouds [[Paper]](https://ieeexplore.ieee.org/document/9322134)
+
+***2020 Neurocomputing*** TDHPPIR An Efficient Deep Hashing Based Privacy-Preserving Image [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523122030552X)
+
+***2020 SIGNAL PROCESS-IMAGE*** SensIR_ Towards privacy-sensitive image retrieval in the cloud [[Paper]](https://www.sciencedirect.com/science/article/pii/S0923596520300606)
+
+***2021 Neural Processing Letters*** PPIS-JOIN A Novel Privacy-Preserving Image Similarity Join Method [[Paper]](https://link.springer.com/article/10.1007/s11063-021-10537-3)
+
+***2021 SECUR COMMUN NETW*** Improved CNN-Based Hashing for Encrypted Image Retrieval [[Paper]](https://www.hindawi.com/journals/scn/2021/5556634/)
+
+***2022 Cluster Computing*** Privacy-preserving content-based image retrieval in edge environment [[Paper]](https://link.springer.com/article/10.1007/s10586-021-03404-2)
+
+***2022 EXPERT SYST APPL*** A privacy-preserving content-based image retrieval method based on deep learning in cloud computing [[Paper]](https://www.sciencedirect.com/science/article/pii/S0957417422008351)
+
+***2022 NCA*** DVPPIR: privacy-preserving image retrieval based on DCNN and VHE [[Paper]](https://link.springer.com/article/10.1007/s00521-022-07286-2)
+
+* #### IEF(image-encrypted-feature)
+
+***2018 Computer Communications*** Privacy-preserving image retrieval for mobile devices with deep features on__the cloud [[Paper]](https://www.sciencedirect.com/science/article/pii/S0140366417311064)
+
+***2020 APSIPA ASCA*** PRIVACY-PRESERVING CONTENT-BASED__IMAGE RETRIEVAL SCHEME ALLOWING__MIXED USE OF ENCRYPTED AND PLAIN__IMAGES [[Paper]](https://ieeexplore.ieee.org/document/9306239)
+
+***2020 FGCS*** MSPPIR_ Multi-Source Privacy-Preserving Image Retrieval in cloud computing [[Paper]](https://www.sciencedirect.com/science/article/pii/S0167739X22001212)
+
+***2020 IEEE T NETW SCI ENG*** A Privacy-Preserving Image Retrieval Scheme Using__Secure Local Binary Pattern in Cloud Computing [[Paper]](https://ieeexplore.ieee.org/document/9261127)
+
+***2020 Journal on Big Data*** OPPR: An Outsourcing Privacy-Preserving JPEG Image Retrieval Scheme with Local Histograms in Cloud Environment [[Paper]](https://www.techscience.com/uploads/attached/file/20210125/20210125022421_26127.pdf)
+
+
+***2020 MDPI*** Searchable Encrypted Image Retrieval Based on Multi-Feature Adaptive Late-Fusion [[Paper]](https://www.mdpi.com/2227-7390/8/6/1019)
+
+***2021 APSIPA ASC***  A PRIVACY-PRESERVING IMAGE RETRIEVAL__SCHEME USING A CODEBOOK GENERATED__FROM INDEPENDENT PLAIN-IMAGE DATASET[[Paper]](https://ieeexplore.ieee.org/document/9689362)
+
+***2021 CNSSE*** A privacy-preserving scheme for JPEG image__retrieval based on deep learning [[Paper]](https://iopscience.iop.org/article/10.1088/1742-6596/1856/1/012007)
+
+***2021 EUSIPCO*** A Content-based Image Retrieval Scheme Using__Compressible Encrypted Images [[Paper]](https://ieeexplore.ieee.org/document/9287671)
+
+***2021 Multimedia Systems*** A privacy-preserving and traitor tracking content-based image retrieval scheme in cloud computing [[Paper]](https://link.springer.com/article/10.1007/s00530-020-00734-w)
+
+***2022 IJIS*** Privacy‐preserving CNN feature extractionand retrieval over medical images [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/int.22991)
+
+***2022 LifeTech*** A Privacy-Preserving Image Retrieval Scheme with a Mixture of Plain and EtC Images [[Paper]](https://ieeexplore.ieee.org/document/9754818)
+
+***2022 Research Square*** High and Low-Level Classification based Features for Content-based Image [[Paper]](https://www.tandfonline.com/doi/full/10.1080/23311916.2021.1927469)
+
+### 😄Cross-Modal
+
+***2021 TDSC***  Towards Private and Scalable Cross-Media Retrieval [[Paper]](https://ieeexplore.ieee.org/document/8755511)
+
+***2023 JISA*** A privacy-preserving cross-media retrieval on encrypted data in cloud computing [[Paper]](https://www.sciencedirect.com/science/article/pii/S221421262300025X)
